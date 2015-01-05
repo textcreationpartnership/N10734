@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:013605_0000_0F905B8F1B8F2918"/>
-            <pb facs="tcp:013605_0001_0F905B8FDC806AD0" rendition="simple:additions"/>
+            <pb facs="unknown:013605_0000_0F905B8F1B8F2918"/>
+            <pb facs="unknown:013605_0001_0F905B8FDC806AD0"
+                rendition="simple:additions"/>
             <p>A SERIOUS ADDRESS TO THE INHABITANTS OF THE COLONY OF NEW-YORK, Containing a full and minute SURVEY of the BOSTON-PORT ACT, calculated to excite our Inhabitants to conspire, with the other Colonies on this Continent, in extricating that unhappy Town from its unparalleled Distresses, and for the actual Redemption, and Security of our general Rights and Liberties.</p>
             <p>NEW-YORK: Printed by JOHN HOLT, in DOCK-STREET, near the COFFEE-HOUSE. <abbr>M, DCC, LXXIV.</abbr>
             </p>
@@ -123,7 +124,8 @@
       </front>
       <body>
          <div type="address">
-            <pb facs="tcp:013605_0002_0F905B909B2FB780" rendition="simple:additions"/>
+            <pb facs="unknown:013605_0002_0F905B909B2FB780"
+                rendition="simple:additions"/>
             <head>To the FREEMEN, FREEHOLDERS, and INHABITANTS of the Colony of NEW-YORK.</head>
             <opener>
                <salute>My Friends, Fellow Countrymen, and Fellow-Sufferers.</salute>
@@ -152,7 +154,7 @@
                   <desc>〈…〉</desc>
                </gap> was not total: Tea being left subject to duty, its importation was prohibited by a mercantile resolve. To execute this, the ships in our dry good trade, were interdicted the importation of tea. No expe<g ref="char:EOLhyphen"/>dient, therefore, was left to the ministry, unwea<g ref="char:EOLhyphen"/>ried in their endeavours for the establishment of tyranny; but that of engaging a body of men, on
 <pb n="4"
-                   facs="tcp:013605_0003_0F905B9155847BE0"
+                   facs="unknown:013605_0003_0F905B9155847BE0"
                    rendition="simple:additions"/>
 the other side of the water, to import the accu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -176,7 +178,7 @@ the other side of the water, to import the accu<gap reason="illegible" resp="#PD
                   <hi>N. B. It is confidently asserted that the Ministry engaged to indemnify the East India Company.</hi>
                </note>
                <pb n="5"
-                   facs="tcp:013605_0004_0F905B924D940748"
+                   facs="unknown:013605_0004_0F905B924D940748"
                    rendition="simple:additions"/>
 of the tea ship and her cargo, and the destruction of Captain Chambers's tea at New York were act<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -226,7 +228,7 @@ The preamble of the act<note n="*" place="bottom">
                   <desc>〈…〉</desc>
                </gap>,
 <pb n="6"
-                   facs="tcp:013605_0005_0F905B94AD6F1E68"
+                   facs="unknown:013605_0005_0F905B94AD6F1E68"
                    rendition="simple:additions"/>
 without the concu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -281,7 +283,7 @@ Upon this passage of law history, which speaks a language vastly disso<g ref="ch
                </gap>y taxed by others? In vain do our modern politicians assert that the powers of taxation
 <note n="*" place="bottom">
                   <hi>With this doctrine agrees the memorable speech on the subject, delivered in the House of Lords by Lord Camden, one of the greatest lights and ornaments of the age.</hi>—See Appendix, No. 2.</note>
-               <pb n="7" facs="tcp:013605_0006_0F905B959234ACD0"/>
+               <pb n="7" facs="unknown:013605_0006_0F905B959234ACD0"/>
 and the powers of legislation are inseparable. For if the authorities I have adduced are of any weight, it would seem that neither of those powers can in strict law be exercised over any people who are not actually represented. Besides, the assertion is a plain <hi>petetio principii.</hi> It takes for granted the very point in dispute, as far as concerns America. In Britain the same identical people are the subjects both of legislation and taxation, and are actually represented in the exercise of both powers. In that country, this circumstance renders the two powers inseparable; but will it follow that they are so considered in the abstract<g ref="char:punc">▪</g> and under all circum<g ref="char:EOLhyphen"/>stances? Does not the assertion prove too much for our adversaries? If the above authorities are law, it excludes Great Britain both from le<g ref="char:EOLhyphen"/>gislative and taxative authority over America, and works the very mischief whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>h our ene<g ref="char:EOLhyphen"/>mies, with unspiring calumny, charge upon us. The truth is<g ref="char:punc">▪</g> that by the antient consti<g ref="char:EOLhyphen"/>tution of England, the assent of the subject was ne<g ref="char:EOLhyphen"/>cessary, in the formation of every law, whether for the police, the distribution of justice, or the sup<g ref="char:EOLhyphen"/>port of government. Since the annexation of Ire<g ref="char:EOLhyphen"/>land and the colonies to the imperial crown of the realm, a new combination of circumstances hath arisen, which makes a relaxation of the rigid rule of law absolutely necessary, yet as little as may be, and with a due attention to the antient rights of Englishmen. The empire is no longer one integral, but consists of many distinct parts, having their re<g ref="char:EOLhyphen"/>spective different, and sometimes jarring, interests. Hence arises the necessity of binding the empire to<g ref="char:EOLhyphen"/>gether by one superintending great council. But the authority of this council over all the parts of the empire, aggregately considered, can only be exer<g ref="char:EOLhyphen"/>cised in cases of extreme necessity, and to prevent a disunion in the regulation of our clashing inte<g ref="char:EOLhyphen"/>rests in commerce, * and in controlling the intro<g ref="char:EOLhyphen"/>duction of contrariety in our general system or law; it is only necessary, and can therefore be constituti<g ref="char:EOLhyphen"/>onally exercised only in those cases. To this every wise American will most cheerfully submit Every further, and of course unnecessary extent of it, I hope as it is our duty, it will ever be our principle, by all just and prudent measures to oppose.</p>
@@ -300,7 +302,7 @@ and the powers of legislation are inseparable. For if the authorities I have add
                   <hi>Nemo potest esse judex in propria sua causa.</hi>
                </note> Besides this, a dependant Governor, armed with ministerial vengeance, is to measure out the quantum of that recompense; and the King in Privy Council, at last is made the abso<g ref="char:EOLhyphen"/>lute disposer of the fortunes of his subjects! How does this act speak the language of magna charta,
 <pb n="8"
-                   facs="tcp:013605_0007_0F905B96F3BD21E8"
+                   facs="unknown:013605_0007_0F905B96F3BD21E8"
                    rendition="simple:additions"/>
 that boasted palladium of English liberty?<note n="b" place="bottom">
                   <q>
@@ -342,7 +344,7 @@ The very same proviso, with the like undistinguishing spirit with which the firs
                <hi>ex post facto</hi> law, it respects all unexecuted contracts, made before the time in which it was past, as is evident from the words<g ref="char:punc">▪</g> 
                <hi>made or entered into, or which shall be made or entered into.</hi> By which means the King's subjects, as well as foreigners, will be punished for the breach of an act, committed before the act for forbidding it existed.</p>
             <p>These, my friends, are some of the evils under which our unhappy fellow subjects in the Massachu<g ref="char:EOLhyphen"/>setts Bay now labour; evils which, as a similar cause usually in politics as in nature<g ref="char:punc">▪</g> produces simi<g ref="char:EOLhyphen"/>lar effects, you must expect soon to sustain with the
-<pb n="9" facs="tcp:013605_0008_0F905B9754F1F810"/>
+<pb n="9" facs="unknown:013605_0008_0F905B9754F1F810"/>
 Pennsylvanians in your turn. You are, doubtless, with a sympathetic anxiety, desirous to know when, and by what means the suffering Bostonians are to be eased of their present burthen<g ref="char:punc">▪</g> I answer (if we may judge from the act) never, till they submit to a worse, I mean an abject compliance with the mea<g ref="char:EOLhyphen"/>sures of an arbitrary Ministry; and of what nature this compliance must be, the act plainly points out. It declares, that
 "whenever it shall be made ap<g ref="char:EOLhyphen"/>pear to his Majesty, in Privy Council, that peace and obedience to the laws shall be so far restored in the said town of Boston, that the trade of Great-Britain may safely be carried on there, and his Ma<g ref="char:EOLhyphen"/>jesty's customs duly collected, and his Majesty in Council shall adjudge the same to be true, his Ma<g ref="char:EOLhyphen"/>jesty shall and may set limits to the port of Boston, and assign, within the same, so many open places, quays, and wharfs, for the landing and lading goods as he shall think proper,"
 with severe penal<g ref="char:EOLhyphen"/>ties for landing and lading goods at any other places. But the act expressly inhibits his Majesty from thus far opening the port
@@ -374,7 +376,7 @@ to the East-India Company "for the de<g ref="char:EOLhyphen"/>struction of their
                   <desc>••</desc>
                </gap>cil, by the Governor, that reasonable satisfaction has been made
 <pb n="10"
-                   facs="tcp:013605_0009_0F905B9812BED400"
+                   facs="unknown:013605_0009_0F905B9812BED400"
                    rendition="simple:additions"/>
 to the custom-house officers, and <hi>others</hi> who have suffered by the transactions of 1773 and 1774. It having been clearly shewn that the peace and good order of the town of Boston were, in the estimation of the Parliament, broke by the destruction of the East-India Company's tea, it follows, as I have be<g ref="char:EOLhyphen"/>fore hinted, that such peace and good order cannot be restored till tea, and other dutied articles, are suffered to be imported, and the duties thereon paid, without interruption or opposition. And it being evid<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -438,7 +440,7 @@ to the custom-house officers, and <hi>others</hi> who have suffered by the trans
                   <desc>•</desc>
                </gap>
                <pb n="11"
-                   facs="tcp:013605_0010_0F905B98D48DE2F8"
+                   facs="unknown:013605_0010_0F905B98D48DE2F8"
                    rendition="simple:additions"/>
 we owe them. If our ports are to be shut, the trade of the mother country must sink, and beggary and distress overspread the land.</p>
             <p>Thus then it appears, how severe and indiscri<g ref="char:EOLhyphen"/>minate the punishment, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -460,7 +462,7 @@ we owe them. If our ports are to be shut, the trade of the mother country must s
             <p>Arts, my dear friends, the most malignant and poisonous to your liberties will doubtless be prac<g ref="char:EOLhyphen"/>tised by dirty hirelings and base dependants on this side of the water, to divert you from the glorious resolution, I have mentioned. To the soft persua<g ref="char:EOLhyphen"/>sions of such, turn a deaf ear, <hi>charm they ever so sweetly.</hi> If you do not, they will allure you, and thro' your ears (can you bear the piercing thought?) your dear, your unoffending posterity, in all ages to come, into the most abject and disgraceful slavery.</p>
             <p>Why would you be persuaded to leave a duty to be performed by your descendants, which you owe to yourselves, to them, to the world? Why re<g ref="char:EOLhyphen"/>fuse to extend the sacred barrier of virtuous liberty, that the nations of the earth may admire it, and admiring catch the noble ardor of freemen? Why leave to your children to do what you can better atchieve for yourselves and for them? You are all anxious to make by the sweat of your brows, com<g ref="char:EOLhyphen"/>fortable inheritances for them; but can you leave them a better, a more inestimable inheritance on this side of eternity, than that liberty to which the all wise, the all bountiful author of universal nature has entitled them, by making them rational creatures? Consider then if you devolve the ar<g ref="char:EOLhyphen"/>duous task on them, you discourage them by your example. You establish against them a powerful
 <pb n="12"
-                   facs="tcp:013605_0011_0F905B99A306CFE8"
+                   facs="unknown:013605_0011_0F905B99A306CFE8"
                    rendition="simple:additions"/>
 precedent, by your abject cession of your liberty. Born in less happy times, totally ignorant of the experimental sweets of virtuous freedom, they will not be so strongly impressed by those powerful mo<g ref="char:EOLhyphen"/>tives to purchase it, as you are to secure it. You know its true value; they will be ignorant of it. Besides, freemen are naturally active, slaves as na<g ref="char:EOLhyphen"/>turally inactive. In this view, those who are to fill your places, will not enjoy that vigour which you possess, to shake off the chains of slavery.</p>
             <p>Consider again, that as far as the n<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -490,7 +492,7 @@ precedent, by your abject cession of your liberty. Born in less happy times, tot
                   <desc>〈◊〉</desc>
                </gap> humbly to propose to the consideration of you, my fellow citizens, a set of resolves, calculated. I hope, to answer the important purpose, and cheerfully sub<g ref="char:EOLhyphen"/>mit them for your correction or rejection. But it is my most earnest request, that as you value your liberty, which is the highest blessing on this side the grave, as you are anxious to transmit that bles<g ref="char:EOLhyphen"/>sing to latest posterity<g ref="char:punc">▪</g> as you feel for the pungent distresses of the much injured Bostonians, who are called to suffer in the common cause, trials hitherto unheard of in a free state; you may at some public meeting, to be convened without delay, publish to
 <pb n="13"
-                   facs="tcp:013605_0012_0F905B9A51B6A330"
+                   facs="unknown:013605_0012_0F905B9A51B6A330"
                    rendition="simple:additions"/>
 the world, your unanimous sentiments, on the momentous occasion, in such a set of resolves, as your zeal, tempered with prudence, will naturally dictate. Nor do I doubt that you, our brethren in the other counties, to whom as well as to my fellow citizens, I earnestly and with great deference re<g ref="char:EOLhyphen"/>commend the measure, will speedily follow their bright example.</p>
             <p>
@@ -521,7 +523,7 @@ the world, your unanimous sentiments, on the momentous occasion, in such a set o
                   <desc>•</desc>
                </gap> con<g ref="char:EOLhyphen"/>tinent, totally to cease from all exports to, and im<g ref="char:EOLhyphen"/>ports from Great Britain, and all supplies of lumber to the sugar colonies in America, with an exception only of such as will be necessary to bring home the returns of North American cargoes, from the fo<g ref="char:EOLhyphen"/>reign sugar colonies, will be the only effectual means to secure a repeal of all the said acts of Par<g ref="char:EOLhyphen"/>liament.</p>
             <p n="9">
-               <pb n="14" facs="tcp:013605_0013_0F905B9D028C2538"/>9thly. That therefore the inhabitants of this city, hereby declare to the world, their readiness cheer<g ref="char:EOLhyphen"/>fully to enter into a general association for that purpose.</p>
+               <pb n="14" facs="unknown:013605_0013_0F905B9D028C2538"/>9thly. That therefore the inhabitants of this city, hereby declare to the world, their readiness cheer<g ref="char:EOLhyphen"/>fully to enter into a general association for that purpose.</p>
             <p n="10">10thly. That to this end a general congress of deputies be convened, from the colonies on this continent, without delay, to resolve on the most effectual means for defending their common rights and liberties, at this most critical and alarming cri<g ref="char:EOLhyphen"/>sis.</p>
             <p>And lastly, that the committee of correspondence for this city, do immediately communicate these resolves to our brethren in the other colonies, and do their utmost endeavours to accelerate the meet<g ref="char:EOLhyphen"/>ing of such congress.</p>
             <p>May the infinitely wise and beneficent sovereign of the universe, in this most critical conjuncture, be the gracious director of all our counsels, and the unerring conductor of all our ways.—May <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -560,7 +562,7 @@ the world, your unanimous sentiments, on the momentous occasion, in such a set o
             </postscript>
          </div>
          <div n="1" type="appendix">
-            <pb facs="tcp:013605_0014_0F905B9E7414C768"/>
+            <pb facs="unknown:013605_0014_0F905B9E7414C768"/>
             <head>APPENDIX, No. I. Anno Decimo Quarto <hi>GEORGII</hi> III. Regis.</head>
             <head type="sub">An <hi>ACT</hi> To discontinue, in such manner, and for such time as are therein mentioned, the landing and discharging, lading or shipping, of goods, wares, and merchandise, at the town, and within the harbour of Boston, in the province of Massachusetts Bay, in North America.</head>
             <p>WHEREAS dangerous com<g ref="char:EOLhyphen"/>motions and insurrections have been fomented and raised in the town of Boston in the province of Massachusetts Bay, in New-Eng<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -586,7 +588,7 @@ the world, your unanimous sentiments, on the momentous occasion, in such a set o
                </gap>t of the said province of the Massachusetts Bay, in New-England; or to take up discharge, or lay on la<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>d, or cause or procure to be taken up, discharged or laid
-<pb facs="tcp:013605_0015_0F905B9F6BC8EC60"/>
+<pb facs="unknown:013605_0015_0F905B9F6BC8EC60"/>
 on land, within the said town or in or upon any of the places aforesaid, out of any boat, lighter, ship, vessel, or bottom, any goods, wares, or merchan<g ref="char:EOLhyphen"/>dise whatsoever<g ref="char:punc">▪</g> to be brought from any other country, province, or place, or any other part of the said province of the Massachusetts Bay, in New-England, upon p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>in of the forfeiture of the said goods, wares, and merchandise, and of the said boat, lighter, ship, vessel, or other bottom i<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -624,7 +626,7 @@ on land, within the said town or in or upon any of the places aforesaid, out of 
                   <desc>•</desc>
                </gap>aid town of Boston, provided the vessels wherein the same are to be carried shall be duly furnished with a cocket and let-pass, after having been duly searched by the proper officers of his Majesty's customs at Marblehead, in the port of Salem, in the said province of Massachusetts Bay; and that some offi<g ref="char:EOLhyphen"/>cer of his Majesty's customs be also put on board the said vessel, who is hereby authorised to go on board, and proceed with the said vessel, together with a sufficient number of persons, properly armed, for his defence, to the said town or harbour of Boston; nor to any ships or vessels which may hap<g ref="char:EOLhyphen"/>pen to be within the said harbour of Boston on or before the first day of June, 1774, and may have either laden or taken on board, or be there with intent to load or take on board, or to land or dis<g ref="char:EOLhyphen"/>charge any goods, wares, and merchandise, pro<g ref="char:EOLhyphen"/>vided the said ships and vessels do depart the said harbour within 14 days after the said first day of June, 1774.</p>
             <p>And be it further enacted by the authority afore<g ref="char:EOLhyphen"/>said, that all seizures, penalties and forfeitures, indicted by this act<g ref="char:punc">▪</g> shall be made and prosecuted by any Admiral, chief commander, or commissi<g ref="char:EOLhyphen"/>oned officer, of his Majesty's fleet, or ships of war, or by the officers of his Majesty's customs, or some of them, or by some other person deputed or au<g ref="char:EOLhyphen"/>thorised, by warrant from the Lord High Treasurer, or the commissioners of his Majesty's treasury for the time being, and by no other person whatsoever:
-<pb facs="tcp:013605_0016_0F905B9F9A66C618"/>
+<pb facs="unknown:013605_0016_0F905B9F9A66C618"/>
 And if any such officer, or other person authorised as aforesaid, shall, directly or indirectly, take or receive any bribe or <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>eward<g ref="char:punc">▪</g> to connive at such lading or unlading, or shall make or commence any collusive seizure, information, or agreement for that purpose, or shall do any other act whatso<g ref="char:EOLhyphen"/>ever, whereby the goods, wares, or merchandise, prohibited as aforesaid, shall be suffered to pass either inwards or outwards or whereby the forfei<g ref="char:EOLhyphen"/>tures and penalties inflicted by this act may be evaded, every such offender shall forfeit the sum of five hundred pounds for every such offence, and shall become in<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -647,14 +649,14 @@ And if any such officer, or other person authorised as aforesaid, shall, directl
                   <desc>•</desc>
                </gap>l be laden or put off from, or dis<g ref="char:EOLhyphen"/>charged or landed upon, any other place than the quays, wharfs, or places so to be appointed, the same, together with the ships, boats, and other vessels employed therein, and the horses, or other cattle and carriages used to convey the same, and the person or persons concerned or assisting therein, or to whose hands the same shall knowingly come, shall suffer all the forfeitures and penalties imposed by this or any other act on the illegal shipping or landing of goods.</p>
             <p>Provided also<g ref="char:punc">▪</g> and it is hereby declared and en<g ref="char:EOLhyphen"/>acted, that nothing herein contained shall extend, or be construed, to enable his Majesty to appoint such port, harbour, creeks, quays, wharfs, places,
-<pb facs="tcp:013605_0017_0F905BA057B3C790"/>
+<pb facs="unknown:013605_0017_0F905BA057B3C790"/>
 or officers in the said town of Boston, or in the said bay or islands, until it shall sufficiently appear to his Majesty that full satisfaction hath been made by or on behalf of the inhabitants of the said town of Boston to the United Company of Merchants of England trading to the East In<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ies, for the damage sustained by the said company by the destruction of their goods sent to the said town of Boston, on board certain ships or vessels as aforesaid; and until it shall be certified to his Majesty, in Council, by the Governor, or Lieut. Governor of the said province, that reasonable satisfaction hath been made to the officers of his Majesty's revenue, and others, who suffered by the riots and insurrections above men<g ref="char:EOLhyphen"/>tioned, in the months of November and December, in the year one thousand seven hundred and seventy three, and in the month of January, in the year one thousand seven hundred and seventy four.</p>
             <p>And be it further enacted by the authority afore<g ref="char:EOLhyphen"/>said, that if any action or suit shall be commenced, either in Great Britain or America, against any per<g ref="char:EOLhyphen"/>son or persons<g ref="char:punc">▪</g> for any thing done in pursuance of this act of Parliament, the defendant or defendants, in such action or suit, may plead the general issue, and give the said act, and the special matter in evi<g ref="char:EOLhyphen"/>dence, at any trial to be had thereupon, and that the same was done in pursuance and by the authority of this act: And if it shall appear so to have been done, the jury shall find for the defendant or de<g ref="char:EOLhyphen"/>fendants<g ref="char:punc">▪</g> and if the plaintiff shall be nonsuited<g ref="char:punc">▪</g> or discontinue his action, after the defendant or de<g ref="char:EOLhyphen"/>fendants shall have appeared<g ref="char:punc">▪</g> or if judgment shall be given upon any verdict or demurrer, against the plaintiff, the defendant or defendants shall recover treble costs, and have the like remedy for the same, as defendants have in other cases by law.</p>
          </div>
          <div n="2" type="appendix">
-            <pb facs="tcp:013605_0018_0F905BA116C77F48"/>
+            <pb facs="unknown:013605_0018_0F905BA116C77F48"/>
             <head>APPENDIX No. II. LORD CAMDEN's SPEECH, On the declaratory Bill of the Sovereignty of <hi>Great-Britain</hi> over the Colonies.</head>
             <p>WHEN I spoke last on this subject I thought I had delivered my sentiment<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -682,7 +684,7 @@ or officers in the said town of Boston, or in the said bay or islands, until it 
                   <desc>••</desc>
                </gap>ched this doctrine.</p>
             <p>
-               <pb facs="tcp:013605_0019_0F905BA20DF96480"/>My position is this—I repeat it—I will maintain it to my last hour—taxation and representation are inseparable This position is founded on the laws of nature; for whatever is a man's own is absolutely his own; no man hath a right to take it from him without his consent either expressed by himself or representative; whoever attempts to do it, at<g ref="char:EOLhyphen"/>tempts an injury; whoever does it, commits a rob<g ref="char:EOLhyphen"/>bery; he throws down and destroys the distinction between liberty and slavery. Taxation and representation are coeval with, and essential to this constitution. I wish the maxim of Machiavel was fol<g ref="char:EOLhyphen"/>lowed, that of examining a constitution, at certain periods, according to its first principles; this would correct abuses and supply defects. I with the times would bear it, and that men's minds were cool enough to enter upon such a task, and that the re<g ref="char:EOLhyphen"/>presentative authority of this kingdom was more equally seated. I am sure some histories of late <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb facs="unknown:013605_0019_0F905BA20DF96480"/>My position is this—I repeat it—I will maintain it to my last hour—taxation and representation are inseparable This position is founded on the laws of nature; for whatever is a man's own is absolutely his own; no man hath a right to take it from him without his consent either expressed by himself or representative; whoever attempts to do it, at<g ref="char:EOLhyphen"/>tempts an injury; whoever does it, commits a rob<g ref="char:EOLhyphen"/>bery; he throws down and destroys the distinction between liberty and slavery. Taxation and representation are coeval with, and essential to this constitution. I wish the maxim of Machiavel was fol<g ref="char:EOLhyphen"/>lowed, that of examining a constitution, at certain periods, according to its first principles; this would correct abuses and supply defects. I with the times would bear it, and that men's minds were cool enough to enter upon such a task, and that the re<g ref="char:EOLhyphen"/>presentative authority of this kingdom was more equally seated. I am sure some histories of late <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> have done great mischief; to endeavour to fix the era when the House of Commons began in this kingdom, is a most pernicious and destruc<g ref="char:EOLhyphen"/>tive attempt: to fix it in an Edward's or Henry's reign is owing to the idle dreams of some whimsical, ill-judging antiquarians. But, my Lords, this is a point too important to be left to such wrong-headed people. When did the House of Commons first be<g ref="char:EOLhyphen"/>gin? When, my Lords? It began with that constitution; there is not a blade of grass, which, when taxed, was not taxed by the consent of the proprietor.</p>
             <p>There is a history written by one Carte, a history that many people now see through; there is another favourite history, much read and admired. I will not name the author, your Lordships must know whom I mean, and you must know from whence he pilfered his notions concerning the first beginning of the House of Commons. My Lords, I challenge any one to point out the time when any tax was laid upon any person by parliament, that person being <gap reason="illegible" resp="#PDCC" extent="1 word">
